@@ -7,7 +7,7 @@
 - 📫 Wanna get in touch? Write an email to marcia.rrdg@gmail.com
 
 
-[Linkedln](https://www.linkedin.com/in/mrcrdg/)
+[Linkedln](https://www.linkedin.com/in/rodriguesmarcia/)
 <div>
   <a href="https://github.com/mrcrdg">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mrcrdg&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
