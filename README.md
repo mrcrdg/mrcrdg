@@ -18,19 +18,22 @@ About me:
 ---
 
 ### 🧩 Currently Exploring
-- 🌐 **Data Engineering** for cloud-based processing with Databricks, PySpark, and distributed data
-- 🔄 **Automation workflows** using Airflow, CI/CD and cloud pipelines
-- 📊 **Generative AI & LLM Ops** applying large language models for automation
-- 🧠 Applying **software engineering to sustainability** with an emphasis on ESG data interoperability across ecosystems and platforms
+- 🌐 **Data Engineering** — Lakehouse architectures with **Delta Lake / Iceberg**, distributed compute using **Spark (PySpark)**, and ELT orchestration with **Airflow** and **dbt Core**  
+- 🔄 **Automation Workflows** — CI/CD, deployment pipelines, and infrastructure as code using **Docker**, **GitHub Actions**, and **Terraform**  
+- 📊 **Generative AI & LLMOps** — exploring **MLflow**, **LangChain**, **Hugging Face**, **RAG pipelines**, **Vector Databases** (Pinecone · Chroma), and **LangGraph**  
+- 🔗 **Streaming & Messaging** — **Kafka** for real-time data ingestion and event-driven systems (in progress)  
+- ✅ **Data Quality** — **Great Expectations** for validation and testing in data pipelines  
+- 🧠 Applying **software engineering to sustainability** with an emphasis on ESG data interoperability across ecosystems and platforms 
 
 ---
 
 ### 🧰 Tech Toolbox
-💻 Python · SQL · PySpark · Pandas · REST APIs · Airflow · Databricks · Grafana · Kibana
-☁️ AWS · Azure · Docker · GitHub Actions (CI/CD) · Prometheus · Grafana · Railway 
-📈 MLflow · FastAPI · Scikit-learn · TensorFlow · PyTorch · Streamlit 
-🤖 LangChain · Hugging Face · RAG pipelines · Vector Databases (Pinecone · Chroma) · LangGraph (exploring)
-🧮 PostgreSQL • MongoDB
+- 💻 **Core Stack:** Python · SQL · PySpark · Pandas · REST APIs · Airflow · dbt Core · dlt  
+- ☁️ **Cloud & DevOps:** AWS · Azure · Docker · Terraform · GitHub Actions (CI/CD) · Railway  
+- 📈 **Monitoring & Observability:** Prometheus · Grafana · Kibana  
+- 🤖 **AI & ML:** Scikit-learn · TensorFlow · PyTorch · MLflow · Hugging Face  
+- 📊 **BI & Visualization:** Metabase · Apache Superset · Streamlit  
+- 🧮 **Data Storage:** PostgreSQL · MongoDB 
 
 ---
 
