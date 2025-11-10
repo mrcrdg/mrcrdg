@@ -1,6 +1,6 @@
-### Hello and welcome to my GitHub profile!
+### Hello!
 
-My name is Marcia Rodrigues, and this repository showcases my work and studies in Data Science and Software Engineering.
+Welcome to my Github profile. My name is Marcia and here you’ll find my studies and software projects.
 
 About me:
 
@@ -8,11 +8,11 @@ About me:
 
 💡 I’ve been working with Data Science and Machine Learning since 2020, developing end-to-end data solutions, from data ingestion and modeling to deployment and visualization.
 
-⚙️ Skilled in Python, SQL, PySpark, Airflow, and Databricks, with experience in Docker, AWS, and Azure for scalable data processing and automation.
+⚙️ Skilled in Python, SQL, PySpark, Airflow, with experience in Docker, AWS (EC2, S3), and Azure (Databricks) for scalable data processing and automation.
 
 🌍 Currently pursuing the Erasmus Mundus Master’s in Software Engineering with a Sustainability track, combining advanced software engineering with sustainable systems design.
 
-📬 Reach me at **marcia.rrdg@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/rodriguesmarciar/).
+📬 Reach me at *marcia.rrdg@gmail.com* or connect on [LinkedIn](https://www.linkedin.com/in/rodriguesmarciar/).
  — Always happy to connect, exchange ideas, or collaborate!
 
 ---
