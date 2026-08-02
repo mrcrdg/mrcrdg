@@ -42,10 +42,7 @@ Reach me at *marcia.rrdg@gmail.com* or connect on [LinkedIn](https://www.linkedi
 - **Databricks Certified Data Engineer Associate** (in progress)
 
 ---
-
-<div align="center">
-  <a href="https://github.com/mrcrdg">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mrcrdg&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcrdg&layout=compact&langs_count=8&theme=gotham"/>
-  </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrcrdg/mrcrdg/output/snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/mrcrdg/mrcrdg/output/snake.svg">
+</picture>
