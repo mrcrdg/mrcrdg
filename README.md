@@ -25,7 +25,7 @@ Reach me at *marcia.rrdg@gmail.com* or connect on [LinkedIn](https://www.linkedi
 - **Storage:** PostgreSQL · DuckDB · Delta Lake / Iceberg · S3
 - **Cloud & DevOps:** AWS · Azure · Docker · Terraform · GitHub Actions (CI/CD)
 - **Quality & Observability:** Great Expectations · dbt tests · Grafana · Prometheus
-- **AI & ML:** Scikit-learn · PyTorch · Hugging Face · LangChain · LangGraph · RAG pipelines · pgvector / Chroma
+- **AI & ML:** Scikit-learn · PyTorch · Hugging Face · LangChain · LangGraph · RAG pipelines · pgvector
 - **BI & Visualization:** Metabase · Streamlit
 
 ---
