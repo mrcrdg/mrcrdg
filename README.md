@@ -1,41 +1,43 @@
 ### Hello!
 
-Welcome to my GitHub profile. My name is Marcia and here you'll find my studies and software projects.
+Welcome to my GitHub profile. My name is Marcia and here you'll find my studies and projects.
 
 **About me:**
 
-**Data Engineer** with 5 years across the data lifecycle — I started in Data Science in 2020 and moved into engineering as the work pulled me there. I build end-to-end data solutions: ingestion, modeling, transformation, deployment, and the monitoring that keeps them reliable.
+**Data Engineer** with 5 years across the data lifecycle — I started in data science and moved into data engineering. I work end to end: ingestion, modeling, transformation, deployment, and the monitoring that keeps them reliable.
 
-I hold a Bachelor's degree in Software Engineering and a postgraduate specialization in Artificial Intelligence, both focused on industrial and applied technologies.
+Recently completed the Erasmus Mundus **Master's in Software Engineering** (SE4GD), a joint degree across Italy, Finland, and the Netherlands, concluding with thesis research on data interoperability across systems and organisations, conducted with a data consultancy in Finland.
 
-I recently completed the **Erasmus Mundus Master's in Software Engineering (SE4GD)**, a joint degree across Italy, Finland, and the Netherlands, concluding with thesis research on **data interoperability across systems and organisations**, conducted with a data consultancy in Finland.
+I hold a **Bachelor's degree in Software Engineering** and a specialization in Artificial Intelligence, both focused on industrial and applied technologies.
 
-Core stack: **Python, SQL, Airflow, dbt, AWS** — plus Docker, CI/CD, and the data quality tooling around them.
+Day to day I work in **Python, SQL, Airflow, dbt, Git, Docker, CI** — plus in-pipeline **testing and data quality, and monitoring**.
+
+Documenting: **dbt docs** for lineage, **ADRs** for decisions, **Mermaid** for architecture, **AGENTS.md**.
 
 Reach me at *marcia.rrdg@gmail.com* or connect on [LinkedIn](https://www.linkedin.com/in/rodriguesmarciar/).
-— Always happy to connect, exchange ideas, or collaborate!
+— Always happy to connect, exchange ideas, or collaborate.
 
 ---
 
-### 🧩 Currently Working On
+### Currently Working On
 
-- 🤖 **Agentic Systems & AI Automation** — coding agents for scoped tasks, automated PR review in the pipeline, agentic CI/CD workflows, and context engineering to make agent behaviour predictable
-- 📡 **Agent Observability** — building a telemetry layer to track how agentic workflows actually behave in practice: traces, costs, failure modes
-- 🌐 **Lakehouse & Distributed Compute** — Delta Lake / Iceberg table formats, Spark (PySpark), and ELT orchestration with Airflow and dbt Core
-- 🔗 **Streaming & Event-Driven Systems** — Kafka for real-time ingestion (in progress)
-- 📜 **Databricks Certified Data Engineer Associate** (in progress)
+- **Agentic Systems & AI Automation** — coding agents for scoped tasks, automated PR review in the pipeline, agentic CI/CD workflows, and context engineering to make agent behaviour predictable
+- **Agent Observability** — building a telemetry layer to track how agentic workflows actually behave in practice: traces, costs, failure modes
+- **Lakehouse & Distributed Compute** — Delta Lake / Iceberg table formats, Spark (PySpark), and ELT orchestration with Airflow and dbt Core
+- **End-to-End Data Platform** — REST API and document ingestion into object storage, dbt modeling into star schemas, Airflow orchestration, and Great Expectations validation
+- **Streaming & Event-Driven Systems** — Kafka for real-time ingestion
+- **Databricks Certified Data Engineer Associate** (in progress)
 
 ---
 
-### 🧰 Tech Toolbox
+### Tech Toolbox
 
-- 💻 **Core Stack:** Python · SQL · Pandas · PySpark · REST APIs · Airflow · dbt Core · dlt
-- ☁️ **Cloud & DevOps:** AWS · Azure · Docker · Terraform · GitHub Actions (CI/CD) · Railway
-- ✅ **Data Quality:** Great Expectations · dbt tests
-- 📈 **Monitoring & Observability:** Prometheus · Grafana · Kibana
-- 🤖 **AI & ML:** Scikit-learn · TensorFlow · PyTorch · MLflow · Hugging Face · LangChain · LangGraph · RAG pipelines · Vector DBs (Pinecone · Chroma)
-- 📊 **BI & Visualization:** Metabase · Apache Superset · Streamlit
-- 🧮 **Data Storage:** PostgreSQL · MongoDB
+- **Pipelines:** Python · SQL · PySpark · Airflow · dbt Core · dlt
+- **Storage:** PostgreSQL · DuckDB · Delta Lake / Iceberg · S3
+- **Cloud & DevOps:** AWS · Azure · Docker · Terraform · GitHub Actions (CI/CD)
+- **Quality & Observability:** Great Expectations · dbt tests · Grafana · Prometheus
+- **AI & ML:** Scikit-learn · PyTorch · Hugging Face · LangChain · LangGraph · RAG pipelines · pgvector / Chroma
+- **BI & Visualization:** Metabase · Streamlit
 
 ---
 
