@@ -19,17 +19,6 @@ Reach me at *marcia.rrdg@gmail.com* or connect on [LinkedIn](https://www.linkedi
 
 ---
 
-### Currently Working On
-
-- **Agentic Systems & AI Automation** — coding agents for scoped tasks, automated PR review in the pipeline, agentic CI/CD workflows, and context engineering to make agent behaviour predictable
-- **Agent Observability** — building a telemetry layer to track how agentic workflows actually behave in practice: traces, costs, failure modes
-- **Lakehouse & Distributed Compute** — Delta Lake / Iceberg table formats, Spark (PySpark), and ELT orchestration with Airflow and dbt Core
-- **End-to-End Data Platform** — REST API and document ingestion into object storage, dbt modeling into star schemas, Airflow orchestration, and Great Expectations validation
-- **Streaming & Event-Driven Systems** — Kafka for real-time ingestion
-- **Databricks Certified Data Engineer Associate** (in progress)
-
----
-
 ### Tech Toolbox
 
 - **Pipelines:** Python · SQL · PySpark · Airflow · dbt Core · dlt
@@ -38,6 +27,19 @@ Reach me at *marcia.rrdg@gmail.com* or connect on [LinkedIn](https://www.linkedi
 - **Quality & Observability:** Great Expectations · dbt tests · Grafana · Prometheus
 - **AI & ML:** Scikit-learn · PyTorch · Hugging Face · LangChain · LangGraph · RAG pipelines · pgvector / Chroma
 - **BI & Visualization:** Metabase · Streamlit
+
+---
+
+### Selected Projects
+
+- **Agentic Systems & AI Automation** — coding agents for scoped tasks, automated PR review in the pipeline, agentic CI/CD workflows, and context engineering to make agent behaviour predictable
+- **[Agent observability](https://github.com/mrcrdg/claude-telemetry)** — building a telemetry layer to track how agentic workflows actually behave in practice: traces, costs, failure modes
+- **[Lakehouse & Distributed Compute](https://github.com/mrcrdg/standard-lakehouse)** — Delta Lake / Iceberg table formats, Spark (PySpark), and ELT orchestration with Airflow and dbt Core
+- **End-to-End Data Platform** — REST API and document ingestion into object storage, dbt modeling into star schemas, Airflow orchestration, and Great Expectations validation
+- **[Streaming & Event-Driven Systems](https://github.com/mrcrdg/real-time-data-pipeline)** — Kafka for real-time ingestion
+- **[Semantic layer](https://github.com/mrcrdg/semantic-layer-duckdb-demo)** — modeling the layer analysts query, without a warehouse underneath · DuckDB · dbt
+- **[Orchestrated Databricks workloads](https://github.com/mrcrdg/dataflow-databricks-airflow-3.0)** — pipelines on Airflow 3.0 · Databricks · PySpark · Airflow
+- **Databricks Certified Data Engineer Associate** (in progress)
 
 ---
 
