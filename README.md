@@ -4,13 +4,13 @@ Welcome to my GitHub profile. My name is Marcia and here you'll find my studies 
 
 **About me:**
 
-**Data Engineer** with 5 years across the data lifecycle — I started in data science and moved into data engineering. I work end to end: ingestion, modeling, transformation, deployment, and the monitoring that keeps them reliable.
+**Data Engineer** with 5 years across the data lifecycle — I started in data science and moved into data engineering. I work end to end: ingestion, modeling, transformation, deployment, and monitoring.
 
 Recently completed the Erasmus Mundus **Master's in Software Engineering** (SE4GD), a joint degree across Italy, Finland, and the Netherlands, concluding with thesis research on data interoperability across systems and organisations, conducted with a data consultancy in Finland.
 
 I hold a **Bachelor's degree in Software Engineering** and a specialization in Artificial Intelligence, both focused on industrial and applied technologies.
 
-Day to day I work in **Python, SQL, Airflow, dbt, Git, Docker, CI** — plus in-pipeline **testing and data quality, and monitoring**.
+Day to day I work in **Python, SQL, Airflow, dbt, Git, Docker, CI, Linux/bash** — plus in-pipeline testing and data quality, and monitoring.
 
 Documenting: **dbt docs** for lineage, **ADRs** for decisions, **Mermaid** for architecture, **AGENTS.md**.
 
