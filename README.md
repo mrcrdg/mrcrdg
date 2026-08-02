@@ -42,7 +42,7 @@ Reach me at *marcia.rrdg@gmail.com* or connect on [LinkedIn](https://www.linkedi
 - **Databricks Certified Data Engineer Associate** (in progress)
 
 ---
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrcrdg/mrcrdg/output/snake-dark.svg">
   <img alt="contribution snake" src="https://raw.githubusercontent.com/mrcrdg/mrcrdg/output/snake.svg">
-</picture>
+</picture> -->
