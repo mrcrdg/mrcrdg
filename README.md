@@ -4,15 +4,15 @@ Welcome to my GitHub profile. My name is Marcia and here you'll find my studies 
 
 **About me:**
 
-**Data Engineer** with 5 years across the data lifecycle — I started in data science and moved into data engineering. I work end to end: ingestion, modeling, transformation, deployment, and monitoring.
+**Data Scientist** moving into **Data engineering** — 5 years across the data lifecycle: ingestion, modeling, transformation, deployment, and monitoring. I started in data science and applied ML, and I now build the pipelines and platforms underneath them.
 
 Recently completed the Erasmus Mundus **Master's in Software Engineering** (SE4GD), a joint degree across Italy, Finland, and the Netherlands, concluding with thesis research on data interoperability across systems and organisations, conducted with a data consultancy in Finland.
 
 I hold a **Bachelor's degree in Software Engineering** and a specialization in Artificial Intelligence, both focused on industrial and applied technologies.
 
-Day to day I work in **Python, SQL, Airflow, dbt, Git, Docker, CI, Linux/bash** — plus in-pipeline testing and data quality, and monitoring.
+Day to day I work in **Python, SQL, Airflow, dbt, Docker, Git, Linux/bash and CI** — plus in-pipeline testing and data quality, and monitoring.
 
-Documenting: **dbt docs** for lineage, **ADRs** for decisions, **Mermaid** for architecture, **AGENTS.md**.
+Documenting: **dbt docs** for lineage, **ADRs** for decisions, **Mermaid** for architecture, **AGENTS.md** for context.
 
 Reach me at *marcia.rrdg@gmail.com* or connect on [LinkedIn](https://www.linkedin.com/in/rodriguesmarciar/).
 — Always happy to connect, exchange ideas, or collaborate.
@@ -21,24 +21,29 @@ Reach me at *marcia.rrdg@gmail.com* or connect on [LinkedIn](https://www.linkedi
 
 ### Tech Toolbox
 
-- **Pipelines:** Python · SQL · PySpark · Airflow · dbt Core · dlt
-- **Storage:** PostgreSQL · DuckDB · Delta Lake / Iceberg · S3
-- **Cloud & DevOps:** AWS · Azure · Docker · Terraform · GitHub Actions (CI/CD)
-- **Quality & Observability:** Great Expectations · dbt tests · Grafana · Prometheus
-- **AI & ML:** Scikit-learn · PyTorch · Hugging Face · LangChain · LangGraph · RAG pipelines · pgvector
+- **Pipelines:** Python · SQL · PySpark · Airflow · dbt · Kafka · Flink
+- **Storage:** PostgreSQL · MySQL · MongoDB · DuckDB · Delta Lake · Apache Iceberg · Parquet · S3 / MinIO
+- **Cloud & DevOps:** AWS (S3, EC2, Lambda)· Azure · Databricks · Docker · Terraform · GitHub Actions (CI/CD)
+- **Quality & Observability:** pytest · dbt tests · ruff · OpenTelemetry · Prometheus · Grafana
+- **AI & ML:** Scikit-learn · TensorFlow · PyTorch · Keras · RAG pipelines · Claude Code
 - **BI & Visualization:** Metabase · Streamlit
 
 ---
 
 ### Selected Projects
+ 
+- **[Agent observability](https://github.com/mrcrdg/claude-telemetry)** — a self-hosted OpenTelemetry → Prometheus → Grafana stack that tracks how Claude Code actually behaves: token consumption, cost, and session activity, entirely on localhost.
+  
+- **[Medallion lakehouse ](https://github.com/mrcrdg/standard-lakehouse)** — bronze → silver → gold over a Stack Exchange XML dump. PySpark handles ingestion, everything downstream is SQL. Delta Lake/Iceberg table formats, Spark (PySpark), orchestration with Airflow and dbt Core, tested and linted, with ADRs for the design calls.
+ 
+- **[Streaming & event-driven pipeline](https://github.com/mrcrdg/real-time-data-pipeline)** — clickstream events through Kafka, filtered in Flink, landed as Iceberg tables on MinIO, queried with Trino and charted in Superset. Runs end to end on one machine.
+  
+- **[Semantic layer](https://github.com/mrcrdg/semantic-layer-duckdb-demo)** —  metrics defined once in YAML and queried by name, over 20M rows of NYC taxi data. DuckDB and Ibis, no warehouse underneath, modeling the layer analysts query, without a warehouse underneath · DuckDB · dbt
 
-- **Agentic Systems & AI Automation** — coding agents for scoped tasks, automated PR review in the pipeline, agentic CI/CD workflows, and context engineering to make agent behaviour predictable
-- **[Agent observability](https://github.com/mrcrdg/claude-telemetry)** — building a telemetry layer to track how agentic workflows actually behave in practice: traces, costs, failure modes
-- **[Lakehouse & Distributed Compute](https://github.com/mrcrdg/standard-lakehouse)** — Delta Lake / Iceberg table formats, Spark (PySpark), and ELT orchestration with Airflow and dbt Core
-- **End-to-End Data Platform** — REST API and document ingestion into object storage, dbt modeling into star schemas, Airflow orchestration, and Great Expectations validation
-- **[Streaming & Event-Driven Systems](https://github.com/mrcrdg/real-time-data-pipeline)** — Kafka for real-time ingestion
-- **[Semantic layer](https://github.com/mrcrdg/semantic-layer-duckdb-demo)** — modeling the layer analysts query, without a warehouse underneath · DuckDB · dbt
+- **Retrieval over a documentation corpus (private)** — a RAG pipeline over Confluence with citations, HTML normalization, PII redaction, and a measured evaluation set scored with TREC qrels and ir-measures. The evaluation harness is the point: retrieval you can't measure is retrieval you can't improve.
+    
 - **[Orchestrated Databricks workloads](https://github.com/mrcrdg/dataflow-databricks-airflow-3.0)** — pipelines on Airflow 3.0 · Databricks · PySpark · Airflow
+  
 - **Databricks Certified Data Engineer Associate** (in progress)
 
 ---
